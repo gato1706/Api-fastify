@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "fastify": "^5.1.0",
+    "nodemon": "^3.1.7",
+    "postgres": "^3.4.5"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "fastify",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
