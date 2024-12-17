@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte de uma aula no YouTube, onde foi aborda
 
 ## Créditos
 
-Este projeto foi desenvolvido a partir de uma aula do **Diego Fernandes** da **Rocketseat**. Agradeço conteúdo compartilhado e às instruções para o desenvolvimento desta API.
+Este projeto foi desenvolvido a partir de uma aula do **Diego Fernandes** da **Rocketseat**. Agradeço ao conteúdo compartilhado e às instruções para o desenvolvimento desta API.
 
 Link para o vídeo da aula: https://youtu.be/hHM-hr9q4mo?si=EgBW48QAq4GAlWDG
 
